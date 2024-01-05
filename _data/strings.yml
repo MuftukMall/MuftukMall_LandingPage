@@ -6,11 +6,5 @@ app:
 footer:
   copyright: Made with ❤️ in India 🇮🇳 by <a href="#" target="_blank">Shahid Nabi</a>
   links:
-    - title: Github
-      url: #
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
     - title: Privacy
       url: /privacy
